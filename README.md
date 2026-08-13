@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Satyam18t/personal-work/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Satyam18t/personal-work/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/Satyam18t/personal-work/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Satyam18t/personal-work/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Satyam18t/personal-work/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Satyam18t/personal-work/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
