@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/Satyam18t/personal-work/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Satyam18t/personal-work/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/Satyam18t/personal-work/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Satyam18t/personal-work/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/Satyam18t/personal-work/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
