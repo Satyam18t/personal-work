@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam18t/personal-work/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam18t/personal-work/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam18t/personal-work/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -95,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam18t/personal-work/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
