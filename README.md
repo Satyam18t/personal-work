@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Satyam18t/personal-work/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Satyam18t/personal-work/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Satyam18t/personal-work/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Satyam18t/personal-work/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Greedy
@@ -119,5 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Satyam18t/personal-work/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/1382-balance-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
