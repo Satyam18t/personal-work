@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Satyam18t/personal-work/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Satyam18t/personal-work/tree/master/0013-roman-to-integer) |
 ## Simulation
 |  |
