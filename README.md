@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Satyam18t/personal-work/tree/master/0225-implement-stack-using-queues) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Satyam18t/personal-work/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Satyam18t/personal-work/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
