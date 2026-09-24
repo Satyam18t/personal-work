@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam18t/personal-work/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam18t/personal-work/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam18t/personal-work/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam18t/personal-work/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Satyam18t/personal-work/tree/master/0226-invert-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam18t/personal-work/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam18t/personal-work/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0099-recover-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Satyam18t/personal-work/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Satyam18t/personal-work/tree/master/1305-all-elements-in-two-binary-search-trees) |
