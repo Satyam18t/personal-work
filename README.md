@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Satyam18t/personal-work/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Satyam18t/personal-work/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Satyam18t/personal-work/tree/master/0020-valid-parentheses) |
 | [3798-largest-even-number](https://github.com/Satyam18t/personal-work/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Satyam18t/personal-work/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Satyam18t/personal-work/tree/master/0225-implement-stack-using-queues) |
 | [0897-increasing-order-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0897-increasing-order-search-tree) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Satyam18t/personal-work/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Satyam18t/personal-work/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
