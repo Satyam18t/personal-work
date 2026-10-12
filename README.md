@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satyam18t/personal-work/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam18t/personal-work/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam18t/personal-work/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/Satyam18t/personal-work/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/Satyam18t/personal-work/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/Satyam18t/personal-work/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Satyam18t/personal-work/tree/master/1929-concatenation-of-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Satyam18t/personal-work/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Satyam18t/personal-work/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Satyam18t/personal-work/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Satyam18t/personal-work/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Satyam18t/personal-work/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Satyam18t/personal-work/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Satyam18t/personal-work/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Satyam18t/personal-work/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
